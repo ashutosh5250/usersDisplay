@@ -1,0 +1,36 @@
+.page{
+   display: flex;
+   justify-content:center;
+}
+.userForm{
+   display: flex;
+   justify-content: center;
+   margin-top: auto;
+}
+.page button{
+   background-color: #007bff;
+   color: aliceblue;
+   margin: 5px;
+   width: 15%;
+   cursor: pointer;
+   font-size: 15px;
+   font-weight: bold;
+  }
+  .table th{
+   padding: 10px;
+   text-align: center;
+   background-color:cornflowerblue;
+  color: aliceblue;
+ }
+ .addUser{
+   background-color: #007bff;
+   color: aliceblue;
+   margin: 5px;
+   width: 15%;
+   cursor: pointer;
+   font-size: 15px;
+   font-weight: bold;
+ }
+ button{
+   cursor: pointer;
+ }
