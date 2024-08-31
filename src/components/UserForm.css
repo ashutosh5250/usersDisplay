@@ -1,4 +1,4 @@
-/* Container styles */
+
 .user-form-container {
    max-width: 400px;
    margin: 0 auto;
@@ -8,14 +8,14 @@
    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
  }
  
- /* Heading styles */
+
  .user-form-container h2 {
    text-align: center;
    margin-bottom: 20px;
    color: #333;
  }
  
- /* Input field styles */
+
  .user-form-group {
    margin-bottom: 15px;
  }
@@ -35,7 +35,7 @@
    box-sizing: border-box;
  }
  
- /* Button styles */
+
  .user-form-container button {
    width: 100%;
    padding: 10px;
@@ -52,14 +52,3 @@
    background-color: #0056b3;
  }
  
- /* Responsive design */
- @media (max-width: 768px) {
-   .user-form-container {
-     padding: 15px;
-   }
- 
-   .user-form-group label,
-   .user-form-container button {
-     font-size: 14px;
-   }
- }
